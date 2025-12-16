@@ -5,7 +5,7 @@ Live Demo:
 https://venkat4400.github.io/ecommerce-wabpage/
 
 GitHub Repository:
-
+https://github.com/Venkat4400/ecommerce-wabpage/tree/main
 
 Tech Used:
 - HTML5
